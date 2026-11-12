@@ -1,0 +1,2 @@
+# Cybersecurity-for-Beginners-in-2026-9-Common-Cyber-Attacks-and-Prevention-Tips
+Learn about 9 common cyberattacks in 2026, including phishing, ransomware, malware, SQL injection, password attacks, and DDoS attacks. Discover practical cybersecurity prevention tips and essential ethical hacking skills for beginners. Start your cybersecurity journey with QNAYDS Academy, Manjeri, Kerala. Explore: https://hackers-academy.qnayds.in⁠
